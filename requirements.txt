@@ -1,0 +1,5 @@
+langgraph>=0.2.0
+litellm>=1.40.0
+langchain-openai>=0.1.0
+langchain-postgres>=0.0.9
+pydantic-settings>=2.0.0
